@@ -1,0 +1,14 @@
+{
+  "name": "subway-mod-900k",
+  "version": "1.0.0",
+  "main": "main.js",
+  "androidjs": {
+    "name": "Subway Mod 900k",
+    "package": "com.jordan.subwaymod900k",
+    "icon": "./assets/icon.png",
+    "type": "webview",
+    "permissions": [
+      "android.permission.INTERNET"
+    ]
+  }
+}
